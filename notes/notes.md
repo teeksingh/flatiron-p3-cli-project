@@ -17,3 +17,11 @@ Use of many-to-many relationships with SQLAlchemy ORM.
 Use of additional data structures, such as ranges and tuples.
 
 
+## Project Pitch
+
+![Project Pitch](image.png)
+
+## Project Requirements
+
+![Project Requirements](image-1.png)
+
